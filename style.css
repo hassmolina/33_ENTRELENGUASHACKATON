@@ -1,8 +1,19 @@
 
 img{
-  width: 90%;
+  width: 100%;
 }
 .carousel-control {
   padding-top:10%;
   width:5%;
+}
+/**/
+.titulo{
+  background-color: #d0033d;
+}
+.vestimentahombre{
+  height: 600px;
+}
+.justify{
+  text-align: justify;
+  padding: 8%;
 }
